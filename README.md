@@ -29,14 +29,17 @@ HONT is a project that counts the number of exercises and provides exercise time
   <img src="https://img.shields.io/github/commit-activity/w/Summer-internship-team-G/hont?color=red" />
 </p>
 
-## 💎 Presentation file
-https://drive.google.com/file/d/1c3hpz90nAbcNdyMFc3pcbnHZUqi-4n6Z/view?usp=sharing
-## 🎞 Demo Video
-https://drive.google.com/file/d/1MzDSEd7gPZIqLVVFc3WQ6Gwguf5WwMRI/view?usp=sharing
+<br>
+
+#### 💎 [Presentation file](https://drive.google.com/file/d/1c3hpz90nAbcNdyMFc3pcbnHZUqi-4n6Z/view?usp=sharing)
+
+#### 🎞 [Demo Video](https://drive.google.com/file/d/1MzDSEd7gPZIqLVVFc3WQ6Gwguf5WwMRI/view?usp=sharing)
 
 <br>
 
-## 📌 Docker Prerequisites
+## 📌 Getting Started
+
+#### Prerequisites
 
 -   Windows [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/)
 -   Mac [https://docs.docker.com/docker-for-mac/install/](https://docs.docker.com/docker-for-mac/install/)
@@ -60,7 +63,7 @@ docker-compose up
 ```
 
 ### 🖼 Frontend
-🎨 [Design Document](https://www.notion.so/Design-Document-6c5e22d55a614606bd231c488e26e770)    
+#### 🎨 [Design Document](https://www.notion.so/Design-Document-6c5e22d55a614606bd231c488e26e770)    
   
 #### 🏠 Structure
   > [frontend/src/components](./frontend/src/components) : Directory for components   
@@ -83,12 +86,11 @@ docker-compose up
   > [docker-compose-prod.yml](./docker-compose-prod.yml) : Dockerfile Compose for deployment   
 
 ### 🤖 AI
-#### 🏋️ Mediapipe ML solution test
-[Mediapipe ML solution test](https://www.notion.so/Mediapipe-ML-solution-test-4b08f970dcff40faa20d960bbc6fe161)  
+#### 🏋️ [Mediapipe ML solution test](https://www.notion.so/Mediapipe-ML-solution-test-4b08f970dcff40faa20d960bbc6fe161)  
 
-🦵 [Squat 기준](https://www.notion.so/Squat-c2e93f74fcad42308a095483e64c071e)  
+#### 🦵 [Squat 기준](https://www.notion.so/Squat-c2e93f74fcad42308a095483e64c071e)  
 
-💪 [Push Up 기준](https://www.notion.so/Push-Up-7b44a151906c4fd08616a288f7695213) 
+#### 💪 [Push Up 기준](https://www.notion.so/Push-Up-7b44a151906c4fd08616a288f7695213) 
 
 #### 🏠 Structure
   > [backend/cal_pose.py](./backend/cal_pose.py) : Module for calculate pose  
