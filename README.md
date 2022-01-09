@@ -1,5 +1,5 @@
 # 2021 Summer SiliconValley Internship Project
-**💪 HONT : 혼자 + Training**
+**💪 HONT : 혼자 + Training**.  
 HONT is a project that counts the number of exercises and provides exercise times, statistics on the day, suitable exercise searches by body part, and guidelines for those who exercise alone.
 
 ## ⚙ System Architecture
