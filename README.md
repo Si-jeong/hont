@@ -85,13 +85,13 @@ docker-compose up
 
 ## 🤖 AI
 ### 🏋️ Mediapipe ML solution test
-  > [Mediapipe ML solution test](https://www.notion.so/Mediapipe-ML-solution-test-4b08f970dcff40faa20d960bbc6fe161)  
+[Mediapipe ML solution test](https://www.notion.so/Mediapipe-ML-solution-test-4b08f970dcff40faa20d960bbc6fe161)  
 
 ### 🦵 Squat 기준
-  > [Squat](https://www.notion.so/Squat-c2e93f74fcad42308a095483e64c071e)  
+[Squat](https://www.notion.so/Squat-c2e93f74fcad42308a095483e64c071e)  
 
 ### 💪 Push Up 기준
-  > [Push Up](https://www.notion.so/Push-Up-7b44a151906c4fd08616a288f7695213) 
+[Push Up](https://www.notion.so/Push-Up-7b44a151906c4fd08616a288f7695213) 
 
 ### 🏠 Structure
   > [backend/cal_pose.py](./backend/cal_pose.py) : Module for calculate pose  
