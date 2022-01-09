@@ -41,36 +41,35 @@ https://drive.google.com/file/d/1MzDSEd7gPZIqLVVFc3WQ6Gwguf5WwMRI/view?usp=shari
 -   Windows [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/)
 -   Mac [https://docs.docker.com/docker-for-mac/install/](https://docs.docker.com/docker-for-mac/install/)
 
-### [](https://github.com/shpark76/docker-demo#1-git-clone)1\. git clone
+#### [](https://github.com/shpark76/docker-demo#1-git-clone)1\. git clone
 
 ```
 git clone https://github.com/Summer-internship-team-G/hont.git
 ```
 
-### [](https://github.com/shpark76/docker-demo#2-docker-compose-build-and-up)2\. docker compose build
+#### [](https://github.com/shpark76/docker-demo#2-docker-compose-build-and-up)2\. docker compose build
 
 ```
 docker-compose build
 ```
 
-### 3\. docker compose up
+#### 3\. docker compose up
 
 ```
 docker-compose up
 ```
 
-## 🖼 Frontend
-### 🎨 Design
-  > [Design Document](https://www.notion.so/Design-Document-6c5e22d55a614606bd231c488e26e770)    
+### 🖼 Frontend
+🎨 [Design Document](https://www.notion.so/Design-Document-6c5e22d55a614606bd231c488e26e770)    
   
-### 🏠 Structure
+#### 🏠 Structure
   > [frontend/src/components](./frontend/src/components) : Directory for components   
   > [frontend/src/font](./frontend/src/font) : Directory for font   
   > [frontend/src/images](./frontend/src/images) : Directory for images   
   > [frontend/src/routes](./frontend/src/routes) : Directory for routes   
 
-## ✨ Backend
-### 🏠 Structure
+### ✨ Backend
+#### 🏠 Structure
   > [backend](./backend) : Directory for backend   
   > [backend/server.py](./backend/server.py) : Main module   
   > [backend/user.py](./backend/user.py) : Module for user management functions   
@@ -83,17 +82,15 @@ docker-compose up
   > [docker-compose.yml](./docker-compose.yml) : Dockerfile Compose for development   
   > [docker-compose-prod.yml](./docker-compose-prod.yml) : Dockerfile Compose for deployment   
 
-## 🤖 AI
-### 🏋️ Mediapipe ML solution test
+### 🤖 AI
+#### 🏋️ Mediapipe ML solution test
 [Mediapipe ML solution test](https://www.notion.so/Mediapipe-ML-solution-test-4b08f970dcff40faa20d960bbc6fe161)  
 
-### 🦵 Squat 기준
-[Squat](https://www.notion.so/Squat-c2e93f74fcad42308a095483e64c071e)  
+🦵 [Squat 기준](https://www.notion.so/Squat-c2e93f74fcad42308a095483e64c071e)  
 
-### 💪 Push Up 기준
-[Push Up](https://www.notion.so/Push-Up-7b44a151906c4fd08616a288f7695213) 
+💪 [Push Up 기준](https://www.notion.so/Push-Up-7b44a151906c4fd08616a288f7695213) 
 
-### 🏠 Structure
+#### 🏠 Structure
   > [backend/cal_pose.py](./backend/cal_pose.py) : Module for calculate pose  
   > [backend/cal_pushup.py](./backend/cal_pushup.py) : Module for count pushup and pushup guide  
   > [backend/cal_squat.py](./backend/cal_squat.py) : Module for count squat and squat guide     
