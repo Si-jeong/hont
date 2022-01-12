@@ -3,7 +3,6 @@ FROM node:16.13.1
 
 # Expose ports
 EXPOSE 3000
-EXPOSE 35729
 
 # Set working directory
 WORKDIR /app
